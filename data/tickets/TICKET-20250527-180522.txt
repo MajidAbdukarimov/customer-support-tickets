@@ -1,0 +1,6 @@
+Ticket ID: TICKET-20250527-180522
+Name: Анвар
+Email: mail@mail.com
+Title: Чемпионат мира по футболу
+Description: Чемпионат мира по футболу 
+Created: 2025-05-27T18:05:22.328623
